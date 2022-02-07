@@ -430,7 +430,7 @@ Timely communication with candidates regarding their availability for contract, 
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/port1.png" class="img-fluid" alt="">
+              <img src="assets/img/port1.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="https://github.com/konarch-dev/essence_ecommerce_product_filteration"  target="_blank"> <i class="bi bi-github"></i></a>
                 <a target="_blank" href="http://essence-ecomm-filter.herokuapp.com/" ><i class="bx bx-link"></i></a>
@@ -443,7 +443,7 @@ Timely communication with candidates regarding their availability for contract, 
         
    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/port2.png" class="img-fluid" alt="">
+              <img src="assets/img/port2.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="https://github.com/konarch-dev/Entertainment_hub"  target="_blank"> <i class="bi bi-github"></i></a>
                 <a target="_blank" href="http://entertainment-hub92.herokuapp.com/" ><i class="bx bx-link"></i></a>
@@ -456,7 +456,7 @@ Timely communication with candidates regarding their availability for contract, 
        
    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/port3.png" class="img-fluid" alt="">
+              <img src="assets/img/port3.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
                 
                 <a target="_blank" href="http://myrealket.in" ><i class="bx bx-link"></i></a>
