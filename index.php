@@ -377,7 +377,7 @@ Used Boolean searches to develop applicant portfolios for expected openings.</li
 
                   <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/port4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/port4.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="https://github.com/konarch-dev/laravel-real-time-chat"  target="_blank"> <i class="bi bi-github"></i></a>
                 <a target="_blank" href="https://laravel-chat-app-pusher.herokuapp.com/" ><i class="bx bx-link"></i></a>
