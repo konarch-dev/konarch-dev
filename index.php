@@ -230,11 +230,8 @@
             <h3 class="resume-title">Sumary</h3>
             <div class="resume-item pb-0">
               <h4>Konarch Prasad</h4>
-              <p><em>Good understanding of back-end and front-end technologies, including HTML5, CSS3, php, JavaScript, React, jQuery.</p><p>
-Experience building API integration in payment gateway, user interfaces for websites and/or webapplications</p><p>
-Experience in developing REST API, responsive design websites
-Comfortable working with verson controlling tools like GITHUB, BIT bucket, Hroku etc.</p><p>
-Ability to understand php frameworks like symfony, laravel, RDBMS tool like Mysql, mongoDB</em></p>
+              <p><em>Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals. </em></p><p><em>
+Highly skilled at creating applications with PHP web framework such as Laravel, Symphony . Expertise in developing user interfaces with HTML, CSS and JavaScript, jQuery and solid understanding of RDBMS tools. Proven team player when working with internal cross-functional departments. Thrive in hands-on, action-oriented culture by working well under pressure and adapting to change quickly.</em></p>
               <ul>
                 <li>Vadodara, Gujarat</li>
                 <li>(91) 9023789034</li>
@@ -250,7 +247,7 @@ Ability to understand php frameworks like symfony, laravel, RDBMS tool like Mysq
               <p>Pursue research and development in webRTC for video calling application</p>
             </div>
             <div class="resume-item">
-              <h4>Bachelor in COmputer Science</h4>
+              <h4>Bachelor in Computer Science</h4>
               <h5>2010 - 2014</h5>
               <p><em>Sigma Institute of Technology, (Vadodara, Gujarat)</em></p>
             
@@ -267,10 +264,9 @@ Ability to understand php frameworks like symfony, laravel, RDBMS tool like Mysq
               <h5>2020 - 2021</h5>
               <p><em>Dorea Educational Institute</em> Warsaw, Poland </p>
               <ul>
-                <li> Interacted with the customers to provide and process information in response to inquiries, concerns, and requests about products and services.  </li>
-                  <li>Avoided legal challenges by monitoring compliance with the service agreements.
-                    Provided answers to clients by identifying problems, researched answers, guided the client through corrective steps.</li>
-                  <li>Placed software into production by loading software into computer, entered necessary commands.Placed hardware into production by establishing connections, entered necessary commands.Accommodated the client disabilities by recommending devices and techniques. Improved the system performance by identifying problems and recommended the changes. </li>
+                <li>Interacted with the customers to provide and process information in response to inquiries, concerns, and requests about products and services.</li>
+                <li>Avoided legal challenges by monitoring compliance with the service agreements. Provided answers to clients by identifying problems, researched answers, guided the client through corrective steps.</li>
+<li>Placed software into production by loading software into computer, entered necessary commands. Placed hardware into production by establishing connections, entered necessary commands.</li>
                 
               </ul>
             </div>
@@ -284,11 +280,12 @@ Ability to understand php frameworks like symfony, laravel, RDBMS tool like Mysq
               <h5>2019 - 2020</h5>
               <p><em>Bookingpetz</em> Netherland, Amsterdam </p>
               <ul>
-                <li> Provided full stack support for ecommerce website development using Web technologies like php, jquery, html/css, bootstrap.</li><li>
+     <li>Provided full stack support for ecommerce website development using backend-frontend technologies like php, jquery, html/css, bootstrap.</li><li>
 Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.</li><li>
-Use of versioning tools like Github, Heroku</li><li>
-Perform API integration in websites for strip, paypal, zoom for chatting app
-</li>
+Worked with RDBMS tool like Mysql
+Use of versioning tools like Github, Heroku,</li><li>
+Perform API integration in websites for strip, paypal, zoom for chatting app, solr search</li><li?>
+Integrate pusher API in Laravel for the system</li?>
               </ul>
             </div>
 
@@ -298,13 +295,13 @@ Perform API integration in websites for strip, paypal, zoom for chatting app
               <h5>2017 - 2019</h5>
               <p><em>vTech Solution Pvt Ltd</em> Vadodara, Gujarat </p>
               <ul>
-                <li>Worked as a PHP developer frontend and backend to customize open source web applications ATS system, HRM system of company. Worked in CodeIgniter, Symphony version 2.8 framework, MySQL, mongo dB database, API integration, JSON, XML, rest API too, manage WordPress based web applications too. </li>
-                  <li>Worked in python too to develop API in NLTK based library to develop the AI-based application. 
-                  Manage window-based VPN server, cPanel, Linux too. 
-                  Managing the team of PHP developers, track the work progress on bitbucket, GitHub sort out the technical issues of department. </li>
-                  <li>Develop process flow plan for the team /project 
-                  Providing technical support to the US clients</li>
-                <li>Integrated Monster, Nexxt Job Board API integration</li>
+                <li>
+                Worked as a PHP developer to develop, maintain inhouse web applications ATS system, HRM system of company. Worked in frameworks like CodeIgniter, Symphony, RDBMS tools - MySQL mongo dB database, REST Api, JSON, </li><li>
+Maintain open source WordPress based system like exam management system
+Develop API in python for NLTK based library to develop the AI-based application.</li>
+<li> Manage window-based VPN server, xampp, mamp, cPanel, Linux too. Managing the team of PHP developers, track the work progress on bitbucket, GitHub sort out the technical issues of department.</li><li>
+Develop process flow plan for the team /project Providing technical support to the US clients
+Integrated Monster, Nexxt Job Board API</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -312,11 +309,11 @@ Perform API integration in websites for strip, paypal, zoom for chatting app
               <h5>2015 - 2017</h5>
               <p><em>Myrealket, Vadodara, Gujarat</em></p>
               <ul>
-                <li>Developed web application, web service API for mobile App..
-                Worked as a front-end developer and backend developer on the following platform [php, MySQL, JSON, XML, rest API] payment gateway (payu, ccavenue, PayPal), SMS gateway integration in a website e-commerce consultant.</li>
                 <li>
-Develop marketing strategy for eCommerce site Develop plans for social media marketing </li>
+Developed web application, web service API for mobile App.
+</li><li> Worked as a front-end developer and backend developer on the following platform [php, MySQL, JSON, XML, rest API] payment gateway (payu, ccavenue, PayPal), SMS gateway integration in a website e-commerce consultant.</li>
 <li>
+Develop marketing strategy for eCommerce site Develop plans for social media marketing
 customize pages in CMS software Word press, Joomla, Ability to write well clean code acc to the W3C Standards Develop Database structure for different project requirement</li>
               </ul>
             </div>
@@ -327,7 +324,7 @@ customize pages in CMS software Word press, Joomla, Ability to write well clean 
               <h5>dec 2014 - may 2014</h5>
               <p><em>TOPS Technologies Pvt. Ltd , Ahmedabad, Gujarat</em></p>
               <ul>
-                <li>Coordinated with IT team leaders to forecast hiring needs and department goals.
+                <li>Coordinated with IT team leaders to forecast hiring needs and department goals.</li><li>
 Onboarded new hires and set up training.</li><li>
 Interviewed candidates using different interview methods and approaches.</li><li>
 Used Boolean searches to develop applicant portfolios for expected openings.</li>
