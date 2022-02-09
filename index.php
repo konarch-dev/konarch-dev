@@ -129,7 +129,7 @@
 
         <div class="section-title">
           <h2>Skills</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="row skills-content">
@@ -222,7 +222,7 @@
 
         <div class="section-title">
           <h2>Resume</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="row">
@@ -284,14 +284,11 @@ Ability to understand php frameworks like symfony, laravel, RDBMS tool like Mysq
               <h5>2019 - 2020</h5>
               <p><em>Bookingpetz</em> Netherland, Amsterdam </p>
               <ul>
-                <li> Developed web application, web API for eCommerce websites.Designing web templates for eCommerce website which have UI friendly interaction too. Worked as a front-end developer and backend developer on the following platform 
-[php, MySQL, JSON, XML, mongo dB rest api]  </li>
-                  <li>Worked in python too to develop API in NLTK based library to develop the AI-based application. 
-                  Manage window-based VPN server, cPanel, Linux too. 
-                  Managing the team of PHP developers, track the work progress on bitbucket, GitHub sort out the technical issues of department. </li>
-                  <li>Develop process flow plan for the team /project 
-                  Providing technical support to the US clients</li>
-                <li>Integrated Monster, Nexxt Job Board API integration</li>
+                <li> Provided full stack support for ecommerce website development using Web technologies like php, jquery, html/css, bootstrap.</li><li>
+Planned website development, converting mockups into usable web presence with HTML, JavaScript, AJAX and JSON coding.</li><li>
+Use of versioning tools like Github, Heroku</li><li>
+Perform API integration in websites for strip, paypal, zoom for chatting app
+</li>
               </ul>
             </div>
 
@@ -330,18 +327,10 @@ customize pages in CMS software Word press, Joomla, Ability to write well clean 
               <h5>dec 2014 - may 2014</h5>
               <p><em>TOPS Technologies Pvt. Ltd , Ahmedabad, Gujarat</em></p>
               <ul>
-                <li>Involved in creating and managing a candidate network and queue with a wide variety of IT skills.
-Keeping in constant touch with the consultants and giving timely feedback to them, helped me a lot in the timely delivery of the consultants for the clients’ needs.</li>
-<li>
-I worked with IT consultants of various experience levels on .Net, Java/J2ee, Oracle, SQL Server, QA Tester, Oracle Apps, SAP, People soft and etc.
-Identified, interview, and submit candidates in a timely and efficient manner.</li>
-
-<li>
-Extensively sourced candidates via the Job Boards, Web Search and Networking. Worked on all major job boards (e.g Timesjobs, MONSTER etc.) to assist the company in recruiting candidates, which included writing the job descriptions clearly and giving them an identification number, updating the postings and maintaining the job boards. Received all responses for processing and input into the system.
-Thoroughly interviewed prospective candidates to determine skill and client compatibility. This included negotiating salaries, relocation expenses, setting up interviews, Reference checks, and extending offers of employment. Provided the hired consultants orientation about the project and the client they are about to join.</li><li>
-Sorting through hundreds of resumes to find just the right person
-When found a suitable candidate I contact them via phone/email and explain to them about the job opening.
-Timely communication with candidates regarding their availability for contract, rate/salary negotiation, relocation, etc</li>
+                <li>Coordinated with IT team leaders to forecast hiring needs and department goals.
+Onboarded new hires and set up training.</li><li>
+Interviewed candidates using different interview methods and approaches.</li><li>
+Used Boolean searches to develop applicant portfolios for expected openings.</li>
                 
               </ul>
             </div>
@@ -386,7 +375,15 @@ Timely communication with candidates regarding their availability for contract, 
             </div>
           </div>
 
-        
+                  <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+            <div class="portfolio-wrap">
+              <img src="assets/img/port4.jpg" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="https://github.com/konarch-dev/laravel-real-time-chat"  target="_blank"> <i class="bi bi-github"></i></a>
+                <a target="_blank" href="https://laravel-chat-app-pusher.herokuapp.com/" ><i class="bx bx-link"></i></a>
+              </div>
+            </div>
+          </div>
 
         
    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
