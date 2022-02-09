@@ -110,7 +110,7 @@
                 <ul>
                   <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>29</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master/B.tech (computer science)</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>konarch92@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>konarch2022@gmail.com</span></li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Work from Home:</strong> <span>Available</span></li>
                 </ul>
               </div>
@@ -493,7 +493,7 @@ Used Boolean searches to develop applicant portfolios for expected openings.</li
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>konarch92@gmail.com</p>
+                <p>konarch2022@gmail.com</p>
               </div>
 
               <div class="phone">
